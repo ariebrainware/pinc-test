@@ -7,6 +7,7 @@
     "axios": "^0.18.0",
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
+    "react-modal-resizable-draggable": "^0.1.1-rc.13",
     "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.5",
     "semantic-ui-css": "^2.3.3",
